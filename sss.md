@@ -1,4 +1,4 @@
-# Online C Programlama Dili Kursu - 17 Şubat 2026 - Sık Sorulan Sorular
+# Online C Programlama Dili Kursu - 20 Ağustos 2026 - Sık Sorulan Sorular
 
 Aşağıda `Kaan Aslan` tarafından verilen `Online C Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
